@@ -1,0 +1,5 @@
+buatlah data siswa satu kelas dgn menggunakan append dan input!
+1.kosongkan dulu listnya
+2. buat inputnya
+3. buat perulangan fornya
+4. tampilkan data yg sdh diinput
